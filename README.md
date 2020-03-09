@@ -19,7 +19,7 @@ This repository contains the source code used to produce the results presented i
 
 Ilan Tzitrin, J. Eli Bourassa, Nicolas C. Menicucci, and Krishna Kumar Sabapathy
 
-If you are doing any research using this source code, the Walrus and Strawberry Fields, please cite the following two papers:
+If you are doing any research using this source code, the Walrus and Strawberry Fields, please cite the following papers:
 
 > https://arxiv.org/abs/1910.03673
 
