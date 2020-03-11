@@ -7,7 +7,7 @@ This repository contains the source code used to produce the results presented i
 
 ## Contents
 
-* `Formalism.ipynb`: a Jupyter notebook to 
+* `Formalism.ipynb`: a Jupyter notebook to calculate 1) how GKP states are modified by single and two qubit gates, and 2) how to get a class of optimal stellar representations (Fock superposition followed by squeezing) of approximate GKP states.
 
 * `StatePrepCircuits.ipynb`: a Jupyter notebook to
 
@@ -21,7 +21,7 @@ Ilan Tzitrin, J. Eli Bourassa, Nicolas C. Menicucci, and Krishna Kumar Sabapathy
 
 If you are doing any research using this source code, the Walrus and Strawberry Fields, please cite the following papers:
 
-> https://arxiv.org/abs/1910.03673
+> Ilan Tzitrin, J. Eli Bourassa, Nicolas C. Menicucci, and Krishna Kumar Sabapathy. Towards practical qubit computation using approximate error-correcting grid state. https://arxiv.org/abs/1910.03673
 
 > Brajesh Gupt, Josh Izaac and Nicolás Quesada. The Walrus: a library for the calculation of hafnians, Hermite polynomials and Gaussian boson sampling. Journal of Open Source Software, 4(44), 1705 (2019)
 
