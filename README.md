@@ -7,13 +7,17 @@ This repository contains the source code used to produce the results presented i
 
 ## Contents
 
-* `Formalism.ipynb`: a Jupyter notebook to calculate 1) how GKP states are modified by single and two qubit gates, and 2) how to get a class of optimal stellar representations (Fock superposition followed by squeezing) of approximate GKP states.
+For more details see individual code files.
+
+* `Formalism.ipynb`: a Jupyter notebook to calculate 1) how GKP states are modified by single and two qubit gates, and 2) how to get a class of optimal stellar representations (Fock superposition followed by squeezing) of normalizable GKP states.
 
 * `StatePrepCircuits.ipynb`: a Jupyter notebook to
 
-* 'paper_data': GBS circuit parameters used to produce the quantities in Table II of the paper.
+* `paper_data`: GBS circuit parameters used to produce the quantities in Table II of the paper.
 
-* 
+* `target_data`: Fock superposition and squeezing parameters of approximate GKP states to be used to train GBS state preparation device parameters.
+
+* `test_data`: a file where basic test runs from `StatePrepCircuits.ipynb` can be stored.
 
 ## Requirements
 
