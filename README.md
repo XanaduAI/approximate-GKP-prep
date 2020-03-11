@@ -11,6 +11,10 @@ This repository contains the source code used to produce the results presented i
 
 * `StatePrepCircuits.ipynb`: a Jupyter notebook to
 
+* 'paper_data': GBS circuit parameters used to produce the quantities in Table II of the paper.
+
+* 
+
 ## Requirements
 
 
